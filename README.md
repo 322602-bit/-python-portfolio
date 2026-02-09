@@ -15,7 +15,7 @@ The project loads student data from a CSV file and trains an AI model using hour
 - CSV dataset (data.csv)
 
 ## Results – Output
-The AI predicted a test score for a student who studied 6 hours and slept 8 hours.
+The AI predicted a test score of 85 for a student who studied 6 hours and slept 8 hours.
 
 ## Learning
 I learned how to train an AI model and use data to make predictions.
