@@ -12,7 +12,7 @@ The project loads student data from a CSV file and trains an AI model using hour
 - Python
 - Pandas
 - Scikit-learn (Linear Regression)
-- "C:\Users\322602\Downloads\data.csv"
+- data.csv
 
 
 ## Results – Output
