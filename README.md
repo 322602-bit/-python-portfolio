@@ -1,4 +1,4 @@
-# -python-portfolio
+[data.csv](https://github.com/user-attachments/files/25190215/data.csv)# -python-portfolio
 My Python programs
 # Student Test Score Predictor
 
@@ -12,10 +12,11 @@ The project loads student data from a CSV file and trains an AI model using hour
 - Python
 - Pandas
 - Scikit-learn (Linear Regression)
-- CSV dataset (data.csv)
+- "C:\Users\322602\Downloads\data.csv"
+
 
 ## Results – Output
-The AI predicted a test score of 85 for a student who studied 6 hours and slept 8 hours.
+The AI predicted a test score of 81 for a student who studied 6 hours and slept 8 hours.
 
 ## Learning
 I learned how to train an AI model and use data to make predictions.
